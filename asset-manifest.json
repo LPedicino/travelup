@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/travelup/static/css/main.281b7ff4.css",
+    "main.js": "/travelup/static/js/main.1fc5c572.js",
+    "index.html": "/travelup/index.html",
+    "main.281b7ff4.css.map": "/travelup/static/css/main.281b7ff4.css.map",
+    "main.1fc5c572.js.map": "/travelup/static/js/main.1fc5c572.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.281b7ff4.css",
+    "static/js/main.1fc5c572.js"
+  ]
+}
